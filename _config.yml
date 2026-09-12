@@ -1,7 +1,13 @@
+
+# Theme
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dirt"
+
+# Site Settings
+locale: "hu"
 title: "WisigothExOriente's page | Portfolio"
-description: stuff.
-author: WisigothExOriente
+description: "stuff."
+name: "WisigothExOriente"
+logo: #talán egyszer
 url: "https://wisigothexoriente.github.io"
 baseurl: "" 
