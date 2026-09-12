@@ -1,4 +1,6 @@
 theme: minimal-mistakes-jekyll
-title: WisigothExOriente's personal blog
-description: This is where I share cool stuff about my life
+title: WisigothExOriente | Quantitative Portfolio
+description: stuff.
 author: WisigothExOriente
+url: "https://wisigothexoriente.github.io"
+baseurl: ""
