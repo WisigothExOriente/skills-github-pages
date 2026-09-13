@@ -11,3 +11,59 @@ name: "WisigothExOriente"
 logo: #talán egyszer
 url: "https://wisigothexoriente.github.io"
 baseurl: "" 
+
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-square-x-twitter"
+      # url:
+      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
+    - label: "Facebook"
+      icon: "fab fa-fw fa-square-facebook"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+  since: "2026"
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  quiet_deps: true
+  silence_deprecations: ['import']
+
+
+# Social Sharing
+twitter:
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+og_image_alt             : # Alt text for Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
